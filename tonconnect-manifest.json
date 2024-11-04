@@ -1,0 +1,8 @@
+{
+    "manifestVersion": 1,
+    "appId": "your-app-id",
+    "url": "https://1254-2401-d800-fcff-13ef-4872-bffc-2874-5d4b.ngrok-free.app/",
+    "name": "Your App Name",
+    "iconUrl": "https://1254-2401-d800-fcff-13ef-4872-bffc-2874-5d4b.ngrok-free.app/logo192.png",
+    "description": "A description of your app."
+}
